@@ -1,0 +1,12 @@
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font: normal 1em/1.5 Arial;
+    color: #111;
+}
